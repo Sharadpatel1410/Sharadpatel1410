@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Systems
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Github
--  Welcome to new World of Data Science and Cloud.
+
 
 <!---
 Sharadpatel1410/Sharadpatel1410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
